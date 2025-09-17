@@ -14,4 +14,3 @@ print("HOLA, bbcitaaaa " + nombre)
 print("Hola, Soy  turylalein!")
 print("HOLA, bbcitaaaa " + nombre)
 
-print("Gordo mijooooooooooooooooooooo")
