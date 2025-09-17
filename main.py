@@ -1,6 +1,6 @@
 nombre = "Geezydee"
 nombre = "Daniel"
-pais = "Angola"
+pais = "gordola"
 print("Hola, Soy  turylalein!")
 print("Hola, Soy Geezydee")
 print("Hola, Soy Kris Rrrr")
