@@ -3,4 +3,5 @@ print("Hola, Soy  turylalein!")
 print("Hola, Soy Gyzedee")
 print("Hola, Soy Kris Rrrr")
 
-print("HOLA, bbcitaaaa" + nombre)
+print("HOLA, bbcitaaaa " + nombre)
+print("Hola, Soy  turylalein!")
